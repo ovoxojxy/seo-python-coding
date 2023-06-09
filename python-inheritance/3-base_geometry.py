@@ -5,5 +5,5 @@
 class BasegGeometry:
     
 
-    '''This is sn empty class called BaseGeometry'''
+ '''This is sn empty class called BaseGeometry'''
     pass
