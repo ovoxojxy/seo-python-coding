@@ -8,4 +8,4 @@ def inherits_from(obj, a_class):
     '''returns True if the object is an instance of a
     class that inherited f_r_o_m the specified class;
     otherwise False'''
-    return  any(isinstance(cls, a_class) for cls in type(obj).__mro__)
+    return any(isinstance(cls, a_class) for cls in type(obj).__mro__)
