@@ -5,4 +5,5 @@ area(self)'''
 
 
 class BaseGeometry:
+    '''Class with private width and height instantiations'''
     pass
