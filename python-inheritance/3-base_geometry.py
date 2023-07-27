@@ -3,5 +3,7 @@
 
 
 class BasegGeometry:
-'''This is an empty class that will be used later'''
-    pass
+    '''Function returns true or false depending 
+     on if the object is from the same class as the 
+     other function argument'''
+     pass
