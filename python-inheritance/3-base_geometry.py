@@ -3,5 +3,5 @@
 
 
 class BasegGeometry:
-    '''This is an empty class that will be used later'''
+'''This is an empty class that will be used later'''
     pass
